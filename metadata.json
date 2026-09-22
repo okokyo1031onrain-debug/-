@@ -1,0 +1,8 @@
+{
+  "name": "【試作】振り返りジェネレーター",
+  "description": "公立中学校の授業・自習で活用できる、生徒の変容と気づきを引き出すAI振り返り作成支援アシスタント",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
